@@ -2,7 +2,7 @@
 
 Social media platforms like Facebook, Instagram and Twitter have become the predominant way people, businesses and organizations
 communicate: companies nowadays invest a lot of resources into social media advertising, while institutional organizations and public figures share information and opinions that can influence millions of people all around the world with just a couple of sentences. 
-Group of researchers suggest that social media platforms foster political polarization by creating “echo chambers” that insulate people
+Group of researchers ([The role of (social) media in political polarization: a systematic review](https://doi.org/10.1080/23808985.2021.1976070)) suggest that social media platforms foster political polarization by creating “echo chambers” that insulate people
 from opposing views about current events.
 
 The objective of this project is to apply Natural Language Processing techniques to Reddit
