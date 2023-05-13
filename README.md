@@ -12,4 +12,4 @@ Being able to automatically identify the political lean of a post may be useful 
 - to check whether a "neutral" organization is instead following a political agenda.
 - together with hate speech analysis to identify if some political parties are associated to
 persecutions of specific groups.
-- together with social media
+- together with social media policies to guarantee free spech and avoid censorship just based on the political lean
